@@ -5,4 +5,4 @@ VersaBuy, established in 2019 is an e-commerce wholesaler and retail distributor
 •	Sales Performance Analysis: Evaluation of historical sales pattern, focusing on revenue, order volume and average order value.
 •	Product Level Performance: Evaluation of how different product lines influence sales.
 •	Regional Sales and Order Distribution
-•	RFM analysis: Segmentation of VersaBuy’s customers based on their purchasing behavior.
+•	RFM analysis: Segmentation of VersaBuy’s customers based on their purchasing behavior. 
