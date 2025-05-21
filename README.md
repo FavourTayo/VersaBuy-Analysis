@@ -6,4 +6,6 @@ VersaBuy, established in 2019 is an e-commerce wholesaler and retail distributor
 -	Sales Performance Analysis: Evaluation of historical sales pattern, focusing on revenue, order volume and average order value.
 -	Product Level Performance: Evaluation of how different product lines influence sales.
 -	Regional Sales and Order Distribution
--	RFM analysis: Segmentation of VersaBuy’s customers based on their purchasing behavior. 
+## Dataset Overview
+VersaBuy’s dataset comprises 17,416 rows of detailed transactional data. It provides a comprehensive view of sales transactions, customer behavior, product performance, and logistics, capturing key business metrics across multiple dimensions. It includes order-level details (e.g., dates, shipping modes, costs), customer demographics (segment, location), product hierarchies (category, sub-category), and regional market segmentation.
+ 
