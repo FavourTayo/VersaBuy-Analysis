@@ -26,7 +26,7 @@ VersaBuy’s dataset comprises 17,416 rows of detailed transactional data. It pr
 
  ### Product Performance Analysis 
  - As discount increases, the average profit margin decreases steadily and then sharply. Initially between 0% and 20% discount, the profit margin stays relatively close to 0%, slightly positive or neutral. Beyond the 20–40% discount range, the profit margin starts to dip below 0%—indicating losses begin here.From 40% onwards, the decline becomes steep, with many values droppings to -50% to -200%, suggesting that at high discounts, the company is losing money heavily.
-##### Below is a chart showing impact of Discount on the profit margin. The entire dashboard can be downloaded <a href=https://github.com/FavourTayo/VersaBuy-Analysis/blob/main/Screenshot/Product%20Performance%20Dashboard.jpg">Here</a>
+##### Below is a chart showing impact of Discount on the profit margin. The entire dashboard can be downloaded <a href="https://github.com/FavourTayo/VersaBuy-Analysis/blob/main/Screenshot/Product%20Performance%20Dashboard.jpg">Here</a>
 ![Screenshot](https://github.com/FavourTayo/VersaBuy-Analysis/blob/main/Screenshot/Impact%20of%20Profit%20on%20Discount%205.jpg)
  
 
