@@ -21,19 +21,18 @@ VersaBuy’s dataset comprises 17,416 rows of detailed transactional data. It pr
 - In 2022, revenue growth exceeded order volume growth, with December recording revenue ($73k) and the highest order volume (64), and august leading in revenue ($79k) suggests effective promotions or product mix adjustments. Highest average order value in August ($1.6k) points to post-COVID spending dispersion beyond traditional holiday peaks.
 - In 2023, Sales peaked in June with 79 orders generating $106K revenue, showcasing strong mid-year performance, while December revenue dropped to $60k despite a record of 71 orders with its average order value of +$1.1k This divergence reveals over-reliance on volume-driven tactics in peak seasons versus value-focused approaches. Meanwhile, February had an average order value of $1.6k reinforcing that non holiday months continued to attract higher targeted campaigns.
 -	In 2024, December had 112 orders and $112K revenue, however average order value peak occurred in august($1.5k) again highlighting that the highest volume transaction was concentrated outside traditional peak periods. This recurring pattern suggests that while holiday season drove mass volume, VersaBuy opportunities lie in off peak months possibly tied to seasonal product launches.
-##### Below is a chart showing the sales trend year over year while pointing at the average order value, the order volume, and revenue.
+##### Below is a chart showing the sales trend year-over-year while pointing at the average order value, the order volume, and revenue.
  ![Screenshot](https://github.com/FavourTayo/VersaBuy-Analysis/blob/main/Screenshot/Sales%20Trend%20YoY.jpg)
 
  ### Product Performance Analysis 
  - As discount increases, the average profit margin decreases steadily and then sharply. Initially between 0% and 20% discount, the profit margin stays relatively close to 0%, slightly positive or neutral. Beyond the 20–40% discount range, the profit margin starts to dip below 0%—indicating losses begin here.From 40% onwards, the decline becomes steep, with many values droppings to -50% to -200%, suggesting that at high discounts, the company is losing money heavily.
-##### Below is a chart showing impact of Discount on the profit margin. The entire dashboard can be downloaded <a href="https://github.com/FavourTayo/VersaBuy-Analysis/blob/main/Screenshot/Product%20Performance%20Dashboard.jpg">Here</a>
+##### Below is a chart showing impact of Discount on the profit margin. The entire product performance dashboard can be downloaded <a href="https://github.com/FavourTayo/VersaBuy-Analysis/blob/main/Screenshot/Product%20Performance%20Dashboard.jpg">Here</a>
 ![Screenshot](https://github.com/FavourTayo/VersaBuy-Analysis/blob/main/Screenshot/Impact%20of%20Profit%20on%20Discount%205.jpg)
- 
-
-   
 -	Nearly half of total company revenue comes from just three sub categories— Phones, Bookcases, and Copiers. These three subcategories accounted for $1.19M out of the total revenue of $2.54M. Phones and Bookcases, while high in sales volume, yield low profit margins, likely due to discounting or high input costs.
 Copiers stand out with both healthy sales and strong profit margins, serving as a model for scalable, profitable growth. It is important to note that just like copiers, although not part of the top three, chairs also have a balanced sales volume and profit margins.
-
+##### Below is a chart showing the sales trend year-over-year while pointing at the average order value, the order volume, and revenue.
+ ![Screenshot](https://github.com/FavourTayo/VersaBuy-Analysis/blob/main/Screenshot/Sales%20Trend%20YoY.jpg)
+ 
 •	3M (Furniture), Astra 67531 (Phone), and Acco 7-Outlet are top-performing products by both sales and order volume. Their performance highlights them as high-value SKUs that contribute meaningfully to revenue and inventory movement. On the other hand, Xerox 217, Zipper Ring Bia, and Xero Comp are underperformers, making them candidates for review or discontinuation.
 •	Office Supplies contributed 947 out of 2,274 orders (42%) over four years, making it the largest category by transaction count. Technology followed with 708 orders (31%), mainly driven by Phones and Copiers, while Furniture had 619 (27%). This suggests Office Supplies drive operational volume, but may not proportionally reflect in revenue due to lower average order values. Furniture and Technology categories, while smaller in order count, offer better revenue-per-order ratios.
 •	In Furniture, Bookcases saw 117% order growth, followed by Chairs (40%) and Tables (41%), indicating strong category interest. In Office Supplies, Appliances (92%) and Binders (84%) led in order counts, though Binders have poor profitability despite volume. For Technology, Copiers grew 222% in orders, Phones 78%, confirming high user demand for these sub-categories.
