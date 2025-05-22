@@ -1,6 +1,6 @@
 # VersaBuy-Analysis
 ## Project Background
-VersaBuy, established in 2019 is an e-commerce wholesaler and retail distributor that caters to both modern business and niche markets.The goal was to analyze VersaBuy’s sales data, product performance, and also regional comparison to uncover actionable insights. It involved stages such as data processing, data cleaning and data visualization. 
+VersaBuy, established in 2019 is an e-commerce wholesaler and retail distributor that caters to both modern business and niche markets.The goal was to analyze VersaBuy’s sales data, product performance, impact of discount on profit margin and also regional comparison to uncover actionable insights. It involved stages such as data processing, data cleaning and data visualization. 
 
 #### Key insights and recommendations are provided on the following key areas:
 -	Sales Performance Analysis: Evaluation of historical sales pattern, focusing on revenue, order volume and average order value.
@@ -26,12 +26,14 @@ VersaBuy’s dataset comprises 17,416 rows of detailed transactional data. It pr
 
  ### Product Performance Analysis 
  - As discount increases, the average profit margin decreases steadily and then sharply. Initially between 0% and 20% discount, the profit margin stays relatively close to 0%, slightly positive or neutral. Beyond the 20–40% discount range, the profit margin starts to dip below 0%—indicating losses begin here.From 40% onwards, the decline becomes steep, with many values droppings to -50% to -200%, suggesting that at high discounts, the company is losing money heavily.
-##### Below is an image showing the sales trend year over year while pointing at the average order value, the order volume, and revenue.
- ![Screenshot](https://github.com/FavourTayo/VersaBuy-Analysis/blob/main/Screenshot/Sales%20Trend%20YoY.jpg)
+##### Below is an image showing impact of Discount on the profit margin. The entire Download can be downloaded <a href="https://github.com/FavourTayo/VersaBuy-Analysis/blob/main/Screenshot/Revenue%20dashboard.jpg">Here</a>
+![Screenshot](https://github.com/FavourTayo/VersaBuy-Analysis/blob/main/Screenshot/Impact%20of%20Profit%20on%20Discount%205.jpg)
+ 
 
    
-•	Nearly half of total company revenue comes from just three sub categories— Phones, Bookcases, and Copiers. These three subcategories accounted for $1.19M out of the total revenue of $2.54M. Phones and Bookcases, while high in sales volume, yield low profit margins, likely due to discounting or high input costs.
+-	Nearly half of total company revenue comes from just three sub categories— Phones, Bookcases, and Copiers. These three subcategories accounted for $1.19M out of the total revenue of $2.54M. Phones and Bookcases, while high in sales volume, yield low profit margins, likely due to discounting or high input costs.
 Copiers stand out with both healthy sales and strong profit margins, serving as a model for scalable, profitable growth. It is important to note that just like copiers, although not part of the top three, chairs also have a balanced sales volume and profit margins.
+
 •	3M (Furniture), Astra 67531 (Phone), and Acco 7-Outlet are top-performing products by both sales and order volume. Their performance highlights them as high-value SKUs that contribute meaningfully to revenue and inventory movement. On the other hand, Xerox 217, Zipper Ring Bia, and Xero Comp are underperformers, making them candidates for review or discontinuation.
 •	Office Supplies contributed 947 out of 2,274 orders (42%) over four years, making it the largest category by transaction count. Technology followed with 708 orders (31%), mainly driven by Phones and Copiers, while Furniture had 619 (27%). This suggests Office Supplies drive operational volume, but may not proportionally reflect in revenue due to lower average order values. Furniture and Technology categories, while smaller in order count, offer better revenue-per-order ratios.
 •	In Furniture, Bookcases saw 117% order growth, followed by Chairs (40%) and Tables (41%), indicating strong category interest. In Office Supplies, Appliances (92%) and Binders (84%) led in order counts, though Binders have poor profitability despite volume. For Technology, Copiers grew 222% in orders, Phones 78%, confirming high user demand for these sub-categories.
