@@ -21,7 +21,7 @@ VersaBuy’s dataset comprises 17,416 rows of detailed transactional data. It pr
 - In 2022, revenue growth exceeded order volume growth, with December recording revenue ($73k) and the highest order volume (64), and august leading in revenue ($79k) suggests effective promotions or product mix adjustments. Highest average order value in August ($1.6k) points to post-COVID spending dispersion beyond traditional holiday peaks.
 - In 2023, Sales peaked in June with 79 orders generating $106K revenue, showcasing strong mid-year performance, while December revenue dropped to $60k despite a record of 71 orders with its average order value of +$1.1k This divergence reveals over-reliance on volume-driven tactics in peak seasons versus value-focused approaches. Meanwhile, February had an average order value of $1.6k reinforcing that non holiday months continued to attract higher targeted campaigns.
 -	In 2024, December had 112 orders and $112K revenue, however average order value peak occurred in august($1.5k) again highlighting that the highest volume transaction was concentrated outside traditional peak periods. This recurring pattern suggests that while holiday season drove mass volume, VersaBuy opportunities lie in off peak months possibly tied to seasonal product launches.
-##### Below is an overview page of the sales dashboard and more examples are included throughout the report. The entire Download can be downloaded <a href="https://github.com/FavourTayo/VersaBuy-Analysis/blob/main/Screenshot/Revenue%20dashboard.jpg">Here</a>
-![Screenshot](https://github.com/FavourTayo/VersaBuy-Analysis/blob/main/Screenshot/Revenue%20Dashboard2.jpg)
+##### Below is an image showing the sales trend year over year while pointing at the average order value, the order volume, and revenue.
+ ![Screenshot](https://github.com/FavourTayo/VersaBuy-Analysis/blob/main/Screenshot/Sales%20Trend%20YoY.jpg)
 
  
