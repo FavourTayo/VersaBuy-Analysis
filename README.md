@@ -26,7 +26,7 @@ VersaBuy’s dataset comprises of 17,416 rows of detailed transactional data. It
 
  ### Product Performance Analysis 
  - As discount increases, the average profit margin decreases steadily and then sharply. Initially between 0% and 20% discount, the profit margin stays relatively close to 0%, slightly positive or neutral. Beyond the 20–40% discount range, the profit margin starts to dip below 0%—indicating losses begin here.From 40% onwards, the decline becomes steep, with many values droppings to -50% to -200%, suggesting that at high discounts, the company is losing money heavily.
-##### Below is a chart showing impact of Discount on the profit margin. The Entire Product Performance Dashboard can be downloaded <a href="https://github.com/FavourTayo/VersaBuy-Analysis/blob/main/Screenshot/Product%20Performance%20Dashboard.jpg">here</a>
+##### Below is a chart showing the impact of Discount on the profit margin. The Entire Product Performance Dashboard can be downloaded <a href="https://github.com/FavourTayo/VersaBuy-Analysis/blob/main/Screenshot/Product%20Performance%20Dashboard.jpg">here</a>
 ![Screenshot](https://github.com/FavourTayo/VersaBuy-Analysis/blob/main/Screenshot/Impact%20of%20Profit%20on%20Discount%205.jpg)
 -	Nearly half of total company revenue comes from just three sub categories— Phones, Bookcases, and Copiers. These three subcategories accounted for $1.19M out of the total revenue of $2.54M. Phones and Bookcases, while high in sales volume, yield low profit margins, likely due to discounting or high input costs.
 Copiers stand out with both healthy sales and strong profit margins, serving as a model for scalable, profitable growth. It is important to note that just like copiers, although not part of the top three, chairs also have a balanced sales volume and profit margins.
@@ -36,12 +36,12 @@ Copiers stand out with both healthy sales and strong profit margins, serving as 
 -	Bookcases led Furniture with 117% order growth, followed by Chairs (40%) and Tables (41%), showing strong demand. In Office Supplies, Appliances (92%) and Binders (84%) saw the most growth, though Binders lacked profitability. Copiers (222%) and Phones (78%) drove strong order growth in Technology.
 ### Regional Comparison
 -	The top three regions based on revenue, profit, average order value and order volume are Western Europe, Oceania, and Eastern Asia. 
-##### Below is a chart the revenue patterns by region. The entire regional dashboard can be downloaded <a href="https://github.com/FavourTayo/VersaBuy-Analysis/blob/main/Screenshot/Revenue%20dashboard.jpg">here</a>
+##### Below is a chart showing revenue patterns over time. The entire regional dashboard can be downloaded <a href="https://github.com/FavourTayo/VersaBuy-Analysis/blob/main/Screenshot/Revenue%20dashboard.jpg">here</a>
 ![Screenshot](https://github.com/FavourTayo/VersaBuy-Analysis/blob/main/Screenshot/Historical%20revenue%20by%20region.jpg)
 -	Western Europe led in revenue and profit, driven by strong phone sales, with a 55.6% revenue increase and 44.9% profit growth despite a slight AOV drop. Oceania followed, showing high AOV ($1,692) and solid profit with fewer orders. Eastern Asia had strong margins and a 20.5% revenue and 29.1% profit rise, despite a decline in AOV efficiency.
 -	In terms of sales trends, Oceania and Western Europe showed the most consistent year-over-year growth across revenue and profit, with both showing over 100% revenue increase and 150%+ profit growth from 2021 to 2024. Southern Asia, despite flat AOV, had the highest profit growth (229.6).
 -	Sales distribution by subcategory varies by region, with Western Europe having the highest technology sales share at 7.77%, while Oceania leads in furniture sales at 5.73%. Southern Asia has the lowest office supplies share at 1.5%. Profit trends highlight Eastern Asia’s early dominance in 2021, but Southern Asia and Oceania take the lead in subsequent years, with Western Europe showing steady profit growth.
-##### Below is a chart revenue of sub-category in each region
+##### Below is a chart showing revenue of sub-category in each region
 ![Screenshot](https://github.com/FavourTayo/VersaBuy-Analysis/blob/main/Screenshot/Revenue%20by%20subcategories.jpg)
 - AOV trends show Eastern Asia leading in 2021 with 182.28% growth, but Southern Asia takes over in 2022 and 2023, while Oceania peaks in 2024 at 165.88%. Central America consistently lags in AOV growth but had a leading order volume in 2021 and 2022 until western Europe surpassed it 2023 and 2024.
 - The bottom regions, Southern US, Canada, and Central Asia, have significantly lower revenue and profit, with Central Asia even reporting a negative profit.
